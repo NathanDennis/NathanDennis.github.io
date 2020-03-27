@@ -4,7 +4,7 @@
   "name": "Nathan Dennis",
   "userimg": "https://avatars1.githubusercontent.com/u/45922306?v=4",
   "sort": "created",
-  "order": "asc",
+  "order": "desc",
   "includeFork": false,
   "theme": "dark.css",
   "types": [
